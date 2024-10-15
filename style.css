@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+    font-size: 25px;
+    
+}
+
+header{
+    text-align: center;
+}
+
+.titulo_principal{
+    padding: 8px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-image: url('./ronauta.gif');
+    border: solid rgb(14, 33, 196) 8px;
+    border-radius: 12px;
+}
+nav a{
+    font-size: 24px;
+    font-family: Verdana;
+    color: rgb(16, 123, 223);
+    text-decoration: none;
+    margin-right: 24px;
+    text-align: center;
+    
+}
+a:hover{
+    background-color: rgb(221, 192, 96);
+    padding: 8px;
+    border-radius: 8px;
+    transition: 3s;
+    font-size: 30px;
+   
+}
+
